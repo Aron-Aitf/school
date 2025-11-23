@@ -1,0 +1,5 @@
+- <https://byjus.com/biology/wildlife-sanctuary/>
+- <https://byjus.com/free-ias-prep/difference-between-wildlife-sanctuary-biosphere-reserves-and-national-parks/>
+- <https://www.knowledgeboat.com/question/differentiate-between-endangered-and-extinct-species--824123157348250900>
+- <https://www.geeksforgeeks.org/biology/wildlife-sanctuary/>
+- <https://github.com/Aron-Aitf/school/blob/main/final.md>
