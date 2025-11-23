@@ -181,6 +181,14 @@ There are many things that people can do to help protect wildlife. Some of these
 
 ---
 
+## Images
+
+![](./images/wild1.png)
+![](./images/wild2.png)
+![](./images/wild3.png)
+
+---
+
 ## Citations
 
 - <https://byjus.com/biology/wildlife-sanctuary/>
@@ -188,3 +196,6 @@ There are many things that people can do to help protect wildlife. Some of these
 - <https://www.knowledgeboat.com/question/differentiate-between-endangered-and-extinct-species--824123157348250900>
 - <https://www.geeksforgeeks.org/biology/wildlife-sanctuary/>
 - <https://github.com/Aron-Aitf/school/blob/main/final.md>
+- <https://www.girjungleresort.com/wp-content/uploads/gir-national-park-sanctury.jpg>
+- <https://www.mapsofindia.com/maps/wildlife/national-parks.jpg>
+- <https://www.nritravelogue.com/wp-content/uploads/2023/10/Top-10-Amazing-Wildlife-Sanctuaries-in-India.png>
